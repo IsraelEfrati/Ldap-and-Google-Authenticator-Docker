@@ -11,4 +11,4 @@ sudo ./script.sh
 ```
 
 ## Edit the script.sh
-Set the value of the variable PHPLDAPADMIN_LDAP_HOSTS in line #8 to be your IP
+Set the value of the variable PHPLDAPADMIN_LDAP_HOSTS in line #8 to your IP address
