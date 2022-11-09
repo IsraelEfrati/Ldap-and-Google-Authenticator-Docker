@@ -3,7 +3,7 @@ from ldap3 import Server, Connection, ALL
 from ldap3.core.exceptions import LDAPBindError
 from pyotp import random_base32, totp
 
-LDAP_IP = "192.168.25.130"
+LDAP_IP = "127.0.0.1"
 
 
 def get_secret():
